@@ -12,7 +12,7 @@ import {
   type CarouselApi,
 } from "@/components/ui/carousel";
 import { Card, CardContent } from "@/components/ui/card";
-import { images } from "./product-images";
+import { images } from "../../../data/product-images";
 
 const HeaderProduct = () => {
   const [api, setApi] = useState<CarouselApi>();

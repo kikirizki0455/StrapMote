@@ -1,6 +1,6 @@
 // About.tsx
 import CardContent from "../components/ui/card-content";
-import { motion as m } from "motion/react";
+import { motion as m } from "framer-motion";
 import DescAbout from "./about/desc-about";
 import Title from "@/pages/components/ui/title";
 

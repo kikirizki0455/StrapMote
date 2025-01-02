@@ -1,5 +1,5 @@
 import { useRouter } from "next/router";
-import { images } from "../components/produk/product-images";
+import { images } from "../../data/product-images";
 import ImageCarousel from "./produk/image-carousel";
 import { ShoppingCart } from "lucide-react"; // Pastikan Anda sudah menginstal lucide-react
 import { FaTiktok } from "react-icons/fa";

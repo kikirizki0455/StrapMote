@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { images } from "../components/produk/product-images"; // Asumsi data produk ada di sini
+import { images } from "../../data/product-images"; // Asumsi data produk ada di sini
 
 const ProductList = () => {
   return (
